@@ -1,5 +1,5 @@
-# Name : paida ram sai
-# Reg no : 212223110034
+# Name : Hanumanth rao
+# Reg no : 212222240016
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
